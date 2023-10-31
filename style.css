@@ -11,6 +11,7 @@ body{
   width: 20%; 
   margin: 0 auto; 
   display: none;
+  margin-top: 10%;
 }
 .active{
   display: block  !important;
@@ -65,4 +66,11 @@ body{
   height: 100%;
   background-color: blue;
 }
+
+#productForm:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border: 8px solid rgb(24, 182, 250);
+}
+
+
   
